@@ -1,0 +1,18 @@
+// 실습 때 Finding celebrities 문제는 random case 통과여부로 확인하겠습니다.
+- Case1
+Input
+7
+Output
+4 1 2 3 6 7
+
+- Case2
+Input
+16
+Output
+4 1 2 4 8 16
+
+- Case3
+Input
+15
+Output
+5 1 2 3 5 10 15
